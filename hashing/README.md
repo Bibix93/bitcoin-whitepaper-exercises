@@ -1,3 +1,4 @@
+# This is Baraa version
 # Bitcoin Whitepaper Exercises - Hashing
 
 In this exercise, you will practice writing code to create blocks, compute block hashes, and verify blocks based on those hashes.
